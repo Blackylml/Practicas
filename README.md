@@ -1,2 +1,3 @@
 # Practicas
-Practicas BASES DE DATPS
+Practicas BASES DE DATos
+Gilberto Treviño Borrego I20050042
